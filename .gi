@@ -1,5 +1,5 @@
 *.tmp
-results
+results/
 *.dat
 *temp
 
